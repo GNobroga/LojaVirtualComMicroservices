@@ -5,14 +5,14 @@ Esse é um projeto que estou desenvolvendo para entender e aprimorar o conceito 
 
 # Tecnologias
 
-## React
+### React
 
-## Redux
+### Redux
 
-## React Router DOM
+### React Router DOM
 
-## ASP .NET Core 7
+### ASP .NET Core 7
 
-## Entity Framework
+### Entity Framework
 
-## Automapper
+### Automapper
